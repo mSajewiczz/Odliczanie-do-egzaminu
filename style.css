@@ -44,9 +44,9 @@ h2 {
         box-sizing: content-box;
     }
 
-    /* .section-left, .section-right {
-        font-size: 30px;
-    } */
-    
+   h2 {
+	font-size: 36px;
+	padding: 30px;
+}
     
 } 
