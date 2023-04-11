@@ -12,6 +12,7 @@ h2 {
 	font-size: 5rem;
 	font-weight: bold;
 	padding: 3rem;
+	color: #546e7a;
 }
 
 .coming-soon {
@@ -28,10 +29,7 @@ h2 {
 	text-align: center;
 }
 
-.day,
-.hour,
-.minute,
-.second {
+.style{
 	font-size: 3rem;
 }
 
@@ -44,9 +42,10 @@ h2 {
         box-sizing: content-box;
     }
 
-   h2 {
-	font-size: 36px;
-	padding: 30px;
-}
+
+    /* .section-left, .section-right {
+        font-size: 30px;
+    } */
+    
     
 } 
